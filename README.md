@@ -101,7 +101,7 @@ Hi, I'm **Sabbir Ahmed**, a Class 12 student and aspiring ethical hacker / penet
 
 ## 🤝 Let's Connect
 
-I'm always happy to talk about ethical hacking, CTFs, learning resources, and project ideas. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/sabbir-ahmed-549460405).
+I'm always happy to talk about ethical hacking, CTFs, learning resources, and project ideas. Feel free to reach out on [LinkedIn](www.linkedin.com/in/sabbir-ahmed-549460405).
 
 <div align="center">
 
