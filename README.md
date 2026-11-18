@@ -1,112 +1,198 @@
-<!-- HEADER BANNER -->
-<div align="center">
+# Sabbir Ahmed | Red Teaming & Cybersecurity
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3b0a0a,100:7f1d1d&height=220&section=header&text=Sabbir%20Ahmed&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Class%2012%20Student%20%7C%20Aspiring%20Ethical%20Hacker%20%7C%20Python%20Developer&descSize=18&descAlignY=60" alt="Sabbir Ahmed banner" width="100%"/>
+\<div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=FF4D4D&center=true&vCenter=true&width=640&lines=Learning+to+think+like+an+attacker;Ethical+hacking%2C+Linux+%26+networking;Python+%7C+Offensive+Security+Tooling" alt="Typing animation" />
-</a>
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3b0a0a,100:7f1d1d&height=220&section=header&text=Sabbir%20Ahmed&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Future%20Senior%20Red%20Teaming%20Engineer%20%7C%20Cybersecurity%20%7C%20Python&descSize=18&descAlignY=60](https://capsule-render.vercel.app/api?type=waving\&color=0:0d1117,50:3b0a0a,100:7f1d1d\&height=220\&section=header\&text=Sabbir%20Ahmed\&fontSize=52\&fontColor=ffffff\&fontAlignY=38\&desc=Future%20Senior%20Red%20Teaming%20Engineer%20%7C%20Cybersecurity%20%7C%20Python\&descSize=18\&descAlignY=60)" alt="Sabbir Ahmed banner" width="100%"/>
 
-<br/><br/>
+\<a href="[https://git.io/typing-svg](https://git.io/typing-svg)"> \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=FF4D4D&center=true&vCenter=true&width=700&lines=Future+Senior+Red+Teaming+Engineer;Learning+Offensive+Security+%26+Adversary+Simulation;Python+%7C+Linux+%7C+Networking+%7C+Cloud+Security;Building+Skills+to+Secure+Digital+Infrastructure](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=20\&duration=3500\&pause=1000\&color=FF4D4D\&center=true\&vCenter=true\&width=700\&lines=Future+Senior+Red+Teaming+Engineer;Learning+Offensive+Security+%26+Adversary+Simulation;Python+%7C+Linux+%7C+Networking+%7C+Cloud+Security;Building+Skills+to+Secure+Digital+Infrastructure)" alt="Typing animation"/> \</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabbir-ahmed-549460405)
-[![GitHub](https://img.shields.io/badge/GitHub-SabbirAhmed--cys-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SabbirAhmed-cys)
-![Focus](https://img.shields.io/badge/Focus-Offensive%20Security-B91C1C?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Learning%20%26%20Building-7F1D1D?style=for-the-badge)
+\<br/>\<br/>
 
-</div>
+
+
+\
+
+
+\
+
+
+\</div>
 
 ---
 
 ## 👤 About Me
 
-Hi, I'm **Sabbir Ahmed**, a Class 12 student and aspiring ethical hacker / penetration tester. I'm fascinated by how systems get broken, because understanding that is how they get secured. I'm building my foundation in **networking, Linux, and Python**, and practicing on legal, intentionally vulnerable labs and CTF platforms.
+Hi, I'm **Sabbir Ahmed**, a cybersecurity enthusiast working towards becoming a **Senior Red Teaming Engineer**.
 
-> **Goal:** build a career in offensive security: penetration testing, red teaming, and web application security.
+I'm passionate about understanding how systems, networks, and applications can be compromised so I can help organizations strengthen their security.
 
-> ⚖️ **Ethical use:** everything I learn and build is practiced only in my own lab or on platforms that give explicit permission (TryHackMe, Hack The Box, picoCTF, etc.). I never test systems I don't have authorization for.
+Currently building my foundations in:
+
+- 🌐 Computer Networking
+- 🐧 Linux and System Administration
+- 🐍 Python Programming
+- 🔐 Offensive Security
+- ☁️ Cloud Computing and Cloud Security
+- 🕵️ Penetration Testing and Red Teaming
+
+> 🎯 **Career Goal:** Become a Senior Red Teaming Engineer, specializing in advanced offensive security, adversary simulation, infrastructure security, and enterprise security assessments.
+
+> ⚖️ **Ethical Commitment:** I practice exclusively in authorized environments, personal labs, and CTF platforms.
 
 ---
 
 ## 🎯 Focus Areas
 
-| Area | What I'm doing |
-|:--|:--|
-| 🕵️ **Ethical Hacking** | Learning the penetration testing process: recon, scanning, exploitation concepts, and reporting |
-| 🌐 **Networking** | Studying protocols, ports, and how traffic flows, which is the base of every attack |
-| 🐧 **Linux & CLI** | Practicing the command line, permissions, and scripting |
-| 🐍 **Python** | Writing small security tools and automation scripts |
-| 🧩 **CTFs** | Solving beginner challenges and documenting write-ups |
-| 🤖 **AI / ML** | Exploring deep learning with TensorFlow and Keras |
+| Area                       | What I'm Learning                                    |
+| :------------------------- | :--------------------------------------------------- |
+| 🔴 **Red Teaming**         | Adversary simulation and security assessments        |
+| 🔐 **Offensive Security**  | Penetration testing methodologies                    |
+| 🌐 **Networking**          | TCP/IP, DNS, routing and network protocols           |
+| 🐧 **Linux**               | System administration, CLI and security fundamentals |
+| 🐍 **Python**              | Security automation and programming                  |
+| ☁️ **Cloud Security**      | AWS, Azure and cloud infrastructure security         |
+| 🛡️ **Defensive Security** | Detection, monitoring and security reporting         |
+| 🧩 **CTFs**                | Practical cybersecurity challenges and write-ups     |
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+\<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,linux,bash,windows,git,github,vscode&theme=dark" alt="Tech stack icons"/>
+\<img src="[https://skillicons.dev/icons?i=python,tensorflow,linux,bash,windows,git,github,vscode&theme=dark](https://skillicons.dev/icons?i=python,tensorflow,linux,bash,windows,git,github,vscode\&theme=dark)" alt="Technology stack"/>
 
-<br/>
+\<br/>\<br/>
 
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-</div>
+
+
+
+
+
+\
+
+
+\</div>
 
 ---
 
 ## 📌 Featured Projects
 
-| Project | Description | Tech | Status |
-|:--|:--|:--|:--:|
-| **[Handwritten Digit Recognition](https://github.com/SabbirAhmed-cys?tab=repositories)** | CNN model that recognises handwritten digits (0-9), with an interactive Streamlit demo | `Python` `TensorFlow` `Keras` `Streamlit` | ✅ Done |
-| **Port Scanner** | Simple TCP port scanner built with Python sockets, tested only on my own machine and lab VMs | `Python` `socket` | 🚧 In progress |
-| **CTF Write-ups** | Step-by-step write-ups of beginner challenges from picoCTF / TryHackMe (retired or allowed rooms only) | `Markdown` | 📝 Planned |
-| **Hash Identifier** | Tool that guesses a hash type (MD5, SHA-1, SHA-256, etc.) from its length and format | `Python` | 📝 Planned |
-| **Home Lab Setup** | Documentation of my practice lab: Kali Linux and intentionally vulnerable machines in an isolated network | `VirtualBox` `Kali Linux` | 📝 Planned |
-
-> 🔗 *Tip: replace the link on the first project with the direct URL of its repository.*
+| Project                                                                                  | Description                                                                            | Technology                    |     Status     |
+| :--------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------- | :---------------------------- | :------------: |
+| [**Handwritten Digit Recognition**](https://github.com/SabbirAhmed-cys?tab=repositories) | CNN-based handwritten digit recognition system with an interactive Streamlit interface | `Python` `TensorFlow` `Keras` |     ✅ Done     |
+| **Port Scanner**                                                                         | Python-based TCP port scanner for authorized lab environments                          | `Python` `Sockets`            | 🚧 In progress |
+| **Hash Identifier**                                                                      | Identifies possible hash formats using their structure and length                      | `Python`                      |   📝 Planned   |
+| **CTF Write-ups**                                                                        | Documenting beginner cybersecurity challenges and lessons learned                      | `Markdown`                    |   📝 Planned   |
+| **Home Cybersecurity Lab**                                                               | Documentation of an isolated cybersecurity learning environment                        | `Linux` `VirtualBox`          |   📝 Planned   |
+| **Security Automation Toolkit**                                                          | Small Python utilities for authorized security testing and automation                  | `Python`                      |   📝 Planned   |
 
 ---
 
-## 🧭 Learning Roadmap
+## 🧭 Career Roadmap
+
+My long-term journey towards becoming a Senior Red Teaming Engineer.
+
+### Phase 1 — Technical Foundations
 
 - [x] Python fundamentals
-- [ ] Linux command line and permissions *(in progress)*
-- [ ] Networking fundamentals: OSI/TCP-IP, DNS, HTTP *(in progress)*
-- [ ] Set up a safe home lab (Kali Linux + vulnerable VMs)
-- [ ] Beginner CTFs: picoCTF, OverTheWire Bandit, TryHackMe
-- [ ] Recon and scanning with Nmap
-- [ ] Web application security: OWASP Top 10, Burp Suite basics
-- [ ] Linux and Windows privilege escalation concepts
-- [ ] Reporting: writing clear penetration test findings
-- [ ] Certifications to explore later: eJPT, PNPT, OSCP
+- [ ] Linux command line and permissions
+- [ ] Networking fundamentals
+- [ ] TCP/IP, DNS, HTTP and OSI model
+- [ ] Windows and Linux administration
+- [ ] Git and GitHub
+
+### Phase 2 — Cybersecurity Fundamentals
+
+- [ ] Cybersecurity principles
+- [ ] Web application security
+- [ ] OWASP Top 10
+- [ ] Basic cryptography
+- [ ] Security fundamentals and threat modelling
+- [ ] Beginner CTF challenges
+
+### Phase 3 — Penetration Testing
+
+- [ ] Nmap and network security fundamentals
+- [ ] Burp Suite basics
+- [ ] Web application penetration testing
+- [ ] Vulnerability assessment and reporting
+- [ ] Authorized lab-based security assessments
+- [ ] Practical security projects
+
+### Phase 4 — Advanced Red Teaming
+
+- [ ] Active Directory security
+- [ ] Windows enterprise security
+- [ ] Cloud security (AWS and Azure)
+- [ ] Adversary emulation
+- [ ] Red Team operations and engagement planning
+- [ ] Security detection and evasion concepts in authorized labs
+
+### Phase 5 — Senior Red Teaming Engineer
+
+- [ ] Professional penetration testing experience
+- [ ] Lead complex red team engagements
+- [ ] Design enterprise adversary simulations
+- [ ] Develop security testing methodologies
+- [ ] Mentor junior security engineers
+- [ ] Contribute to organizational security strategy
+
+---
+
+## 🎓 Certifications to Explore
+
+| Certification | Organization        |
+| :------------ | :------------------ |
+| Security+     | CompTIA             |
+| eJPT          | INE                 |
+| PNPT          | TCM Security        |
+| OSCP          | OffSec              |
+| CRTO          | Zero-Point Security |
+
+*These are future learning goals, not certifications currently held.*
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+\<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SabbirAhmed-cys&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabbirAhmed-cys&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top languages"/>
+\<img height="170" src="[https://github-readme-stats.vercel.app/api?username=SabbirAhmed-cys&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117](https://github-readme-stats.vercel.app/api?username=SabbirAhmed-cys\&show_icons=true\&theme=radical\&hide_border=true\&bg_color=0d1117)" alt="GitHub statistics"/>
 
-<img src="https://streak-stats.demolab.com/?user=SabbirAhmed-cys&theme=radical&hide_border=true&background=0d1117" alt="GitHub streak"/>
+\<img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=SabbirAhmed-cys&layout=compact&theme=radical&hide_border=true&bg_color=0d1117](https://github-readme-stats.vercel.app/api/top-langs/?username=SabbirAhmed-cys\&layout=compact\&theme=radical\&hide_border=true\&bg_color=0d1117)" alt="Most used languages"/>
 
-</div>
+\<br/>\<br/>
+
+\<img src="[https://streak-stats.demolab.com/?user=SabbirAhmed-cys&theme=radical&hide_border=true&background=0d1117](https://streak-stats.demolab.com/?user=SabbirAhmed-cys\&theme=radical\&hide_border=true\&background=0d1117)" alt="GitHub contribution streak"/>
+
+\</div>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always happy to talk about ethical hacking, CTFs, learning resources, and project ideas. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/sabbirahmed549460405/).
+I'm always open to connecting with cybersecurity enthusiasts, developers, and people interested in ethical hacking, offensive security, and technology.
 
-<div align="center">
+\<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f1d1d,50:3b0a0a,100:0d1117&height=120&section=footer" alt="Footer" width="100%"/>
 
-*Learning to break things legally, so I can help build safer ones.*
 
-</div>
+
+
+
+
+
+
+\<br/>
+
+**Email:** [novanamigo@gmail.com](mailto\:novanamigo@gmail.com)
+
+\<br/>
+
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:7f1d1d,50:3b0a0a,100:0d1117&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:7f1d1d,50:3b0a0a,100:0d1117\&height=120\&section=footer)" alt="Footer banner" width="100%"/>
+
+*Think like an attacker. Build like a defender. Secure like an engineer.*
+
+\</div>
